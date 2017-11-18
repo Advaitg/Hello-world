@@ -1,3 +1,4 @@
+// Tic Tac Toe game for two players
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
